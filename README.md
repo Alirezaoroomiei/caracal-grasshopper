@@ -182,7 +182,6 @@ Selected planned repository visuals:
 
 ![Neutral comparison of two completed results](media/09_compare.png)
 
-The full screenshot set and asset purpose map are documented in `media/MEDIA_MANIFEST.md` and `media_plan/SCREENSHOT_CAPTURE_PLAN.md`.
 
 ## Citation
 
