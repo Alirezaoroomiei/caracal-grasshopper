@@ -1,0 +1,27 @@
+name: Feature request
+description: Suggest a possible future improvement to Caracal.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Feature requests are welcome, but they do not imply a commitment, schedule, or support guarantee.
+  - type: textarea
+    id: request
+    attributes:
+      label: Requested improvement
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why this would help
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Research/domain context
+      placeholder: "Explain whether this stays inside the current supported research domain or would require scope expansion."

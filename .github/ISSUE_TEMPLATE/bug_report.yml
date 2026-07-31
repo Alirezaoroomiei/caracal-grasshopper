@@ -1,0 +1,63 @@
+name: Bug report
+description: Report a reproducible problem with Caracal v0.1.0.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please report only issues you can reproduce with the packaged public release content.
+  - type: input
+    id: caracal-version
+    attributes:
+      label: Caracal version
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: rhino-version
+    attributes:
+      label: Rhino version
+      placeholder: "Example: Rhino 8 SR33 8.33.26188.13001"
+    validations:
+      required: true
+  - type: dropdown
+    id: runtime
+    attributes:
+      label: Rhino runtime mode
+      options:
+        - NetCore / .NET 8
+        - NetFX / .NET Framework
+        - I am not sure
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "Describe the exact Grasshopper workflow and input values."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: error-text
+    attributes:
+      label: Error text or messages
+      placeholder: "Paste Analysis Status, Domain Status, Messages, or load errors if available."
+  - type: textarea
+    id: package-check
+    attributes:
+      label: Package integrity check
+      placeholder: "Confirm whether the full package folder and Runtime folder were kept together."

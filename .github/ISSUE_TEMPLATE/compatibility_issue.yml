@@ -1,0 +1,57 @@
+name: Compatibility issue
+description: Report a host or environment compatibility issue within the documented support boundary.
+title: "[Compatibility]: "
+labels:
+  - compatibility
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Caracal v0.1.0 has a conservative documented compatibility boundary. Please include exact environment details.
+  - type: input
+    id: caracal-version
+    attributes:
+      label: Caracal version
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      placeholder: "Example: Windows 11 10.0.22631"
+    validations:
+      required: true
+  - type: input
+    id: rhino-version
+    attributes:
+      label: Rhino version
+      placeholder: "Example: Rhino 8 SR33 8.33.26188.13001"
+    validations:
+      required: true
+  - type: dropdown
+    id: runtime
+    attributes:
+      label: Rhino runtime mode
+      options:
+        - NetCore / .NET 8
+        - NetFX / .NET Framework
+        - I am not sure
+    validations:
+      required: true
+  - type: textarea
+    id: symptom
+    attributes:
+      label: Compatibility symptom
+      placeholder: "Example: plugin not appearing, assembly load failure, System.Runtime 8.0 error, unsupported behavior."
+    validations:
+      required: true
+  - type: textarea
+    id: exact-error
+    attributes:
+      label: Exact error text
+  - type: textarea
+    id: attempted-fix
+    attributes:
+      label: Troubleshooting already attempted
+      placeholder: "Example: ran SetDotNetRuntime, switched to NetCore, restarted Rhino."
