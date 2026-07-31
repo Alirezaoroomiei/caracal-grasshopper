@@ -50,6 +50,10 @@ No for v0.1.0. Source code remains private.
 
 The public release is the binary package and its documentation/media under `Caracal Binary License — Research & Evaluation Release v0.1.0`. Source code is private.
 
+Canonical repository:
+
+- `https://github.com/Alirezaoroomiei/caracal-grasshopper`
+
 ## Can I use Caracal commercially?
 
 Not without prior written permission. Commercial/professional use requires permission from Alireza Oroomiei.

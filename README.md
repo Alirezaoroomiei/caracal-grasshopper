@@ -20,6 +20,14 @@ Binary release status for v0.1.0:
 - commercial/professional use requires permission
 - third-party components remain under their respective upstream licenses
 
+Canonical repository:
+
+- https://github.com/Alirezaoroomiei/caracal-grasshopper
+
+Published v0.1.0 release:
+
+- https://github.com/Alirezaoroomiei/caracal-grasshopper/releases/tag/v0.1.0
+
 ![Caracal full workflow hero](media/10_full_workflow_hero.png)
 
 ## Overview
@@ -202,11 +210,9 @@ Planned primary support channel:
 
 - GitHub Issues
 
-Planned repository identity after creation:
+Repository:
 
-- GitHub username: `Alirezaoroomiei`
-- planned repository: `caracal-grasshopper`
-- canonical URL status: planned, not yet created
+- https://github.com/Alirezaoroomiei/caracal-grasshopper
 
 See `SUPPORT.md`.
 

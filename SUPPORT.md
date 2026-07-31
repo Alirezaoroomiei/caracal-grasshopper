@@ -10,11 +10,17 @@ Caracal v0.1.0 uses a best-effort support model.
 
 Support channel activation note:
 
-- support will operate through GitHub Issues after repository creation
-- planned GitHub username: `Alirezaoroomiei`
-- planned repository: `caracal-grasshopper`
+- support operates through GitHub Issues on the live repository
+- GitHub username: `Alirezaoroomiei`
+- repository: `caracal-grasshopper`
 
-Repository URL is not finalized in this draft package and is intentionally omitted.
+Canonical repository URL:
+
+- https://github.com/Alirezaoroomiei/caracal-grasshopper
+
+Published v0.1.0 release:
+
+- https://github.com/Alirezaoroomiei/caracal-grasshopper/releases/tag/v0.1.0
 
 Binary release context:
 

@@ -16,10 +16,13 @@ Prepared citation assets for v0.1.0 include:
 - Creator: `Alireza Oroomiei`
 - ORCID: `https://orcid.org/0009-0000-0864-4175`
 - Affiliation: `School of Architecture, Iran University of Science and Technology (IUST)`
-- Planned GitHub username after repository creation: `Alirezaoroomiei`
-- Planned repository name after repository creation: `caracal-grasshopper`
+- GitHub username: `Alirezaoroomiei`
+- Repository name: `caracal-grasshopper`
+- Canonical repository URL: `https://github.com/Alirezaoroomiei/caracal-grasshopper`
 
-Repository URL is intentionally omitted from this authoritative citation draft until the repository actually exists.
+Published v0.1.0 release:
+
+- `https://github.com/Alirezaoroomiei/caracal-grasshopper/releases/tag/v0.1.0`
 
 ## Thesis relationship
 

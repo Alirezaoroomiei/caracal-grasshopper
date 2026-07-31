@@ -9,3 +9,5 @@ authors:
     orcid: "https://orcid.org/0009-0000-0864-4175"
     affiliation: "School of Architecture, Iran University of Science and Technology (IUST)"
 abstract: "Experimental research software for explainable energy prediction in early-stage architectural design within a validated supported research domain."
+repository-code: "https://github.com/Alirezaoroomiei/caracal-grasshopper"
+url: "https://github.com/Alirezaoroomiei/caracal-grasshopper"

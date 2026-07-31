@@ -26,6 +26,14 @@ Conservative compatibility boundary:
 
 Caracal v0.1.0 is prepared as a manual package-folder release.
 
+Live repository:
+
+- `https://github.com/Alirezaoroomiei/caracal-grasshopper`
+
+Published v0.1.0 release:
+
+- `https://github.com/Alirezaoroomiei/caracal-grasshopper/releases/tag/v0.1.0`
+
 ### Package integrity rules
 
 1. Keep the entire Caracal package intact.
