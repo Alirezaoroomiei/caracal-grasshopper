@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="media/caracal-logo-readme.png"
+       width="180"
+       alt="Caracal logo">
+</p>
+
 # Caracal
 
 _Explainable Energy Prediction for Early-Stage Architectural Design_
